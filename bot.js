@@ -9,7 +9,7 @@ const sql = require('sqlite')
 const moment = require('moment')
 var Canvas = require('canvas')
 var jimp = require('jimp')
-const adminprefix = ".";
+const adminprefix = "$";
 const devs = ['336606008069849088' , '427946202890240023' , '171259176029257728' , '343383616895713290'];
 const Music = require('discord.js-musicbot-addon');
 client.login();
